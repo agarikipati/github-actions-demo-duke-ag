@@ -3,5 +3,5 @@ def add(x, y):
 
     return x + y
 
-var = 
+var = 0
 print(add(1, 1))
